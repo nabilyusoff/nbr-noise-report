@@ -4,6 +4,11 @@
       "source": "/",
       "destination": "/latest",
       "permanent": false
+    },
+    {
+      "source": "/2026-10-21",
+      "destination": "/2026-10-19",
+      "permanent": true
     }
   ],
   "headers": [
